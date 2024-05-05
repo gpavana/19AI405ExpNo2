@@ -82,8 +82,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </table>
 
 ### Algorithm:
- Step-1: Construct a Graph with Nodes and Edges.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Developed By: **ROHIT JAIN D**<br>
- Step-2: Depth First Search Uses Stack and Recursion.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Register No: **212222230120**<br>
+ Step-1: Construct a Graph with Nodes and Edges.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Developed By: **PAVANA G**<br>
+ Step-2: Depth First Search Uses Stack and Recursion.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Register No: **212222230105**<br>
  Step-3: Insert a START node to the STACK.<br>
  Step-4: Find its Successors Or neighbors and Check whether the node is visited or not.<br>
  Step-5: If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
